@@ -1,6 +1,9 @@
 ##### MyNumberWizard
 
 
+
+
+
 ## The Game
 
 The Text-Game NumberWizard is all about numbers. Imagine a number between 1 and 1000 and the Magician will guess the right number, that's in your mind. Like real magic. 
